@@ -1,6 +1,11 @@
 # nuxt
 
-creacion de un nuevo proyecto
+Que es?
+Es un metaframework(esta basado en vue3) de front y back
+
+Utiliza vue, para el servidor usa nitro, tiene un boundler que automatiza actividades repetitivas, tiene esbuild para usar la sintaxis que el navegador pueda entender y tiene el enrutador de vue router
+
+Creacion de un nuevo proyecto
 npm install --save nuxt
 npx create-nuxt-app first_app
 entrar a la carpeta creada y darle a npm run dev
