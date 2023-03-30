@@ -1,13 +1,13 @@
 # nuxt
 
 Que es?
-Es un metaframework(esta basado en vue3) de front y back
+Es un metaframework(esta basado en) de front y back
 
 Utiliza vue, para el servidor usa nitro, tiene un boundler que automatiza actividades repetitivas, tiene esbuild para usar la sintaxis que el navegador pueda entender y tiene el enrutador de vue router
 
 Creacion de un nuevo proyecto
 npm install --save nuxt
-npx create-nuxt-app first_app
+npm init nuxt-app "<project-name>"
 entrar a la carpeta creada y darle a npm run dev
 entrar a settings, extensions, vetur: format > Default Formatter: HTML se selecciona none
 Ir a layouts.vue y ponerle al div encima de nuxt un id asi id="app"
